@@ -134,4 +134,6 @@ Python   •   Data Science   •   RESTful WebServices   •   Software Develop
 Penetration Testing   •   Start-ups   •   Scrum   •   HTML   •   CSS
 
 
-C:\Users\londo\OneDrive\Documentos\CVs Nov dez 2020\github-english-resume\LinkedIn - www.linkedin.com.png
+<img src="curriculum.png">
+
+<a href="curriculum.png"></a>
