@@ -145,6 +145,6 @@ Python   •   Data Science   •   RESTful WebServices   •   Software Develop
 Penetration Testing   •   Start-ups   •   Scrum   •   HTML   •   CSS
 
 
-<!--img src="curriculum.png"-->
+<img src="curriculum.png">
 
-<a href="curriculum.png"></a>
+<!--a href="curriculum.png"></a-->
