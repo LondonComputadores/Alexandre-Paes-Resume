@@ -1,14 +1,14 @@
-# Alexandre-Paes-Resume
+                            # Alexandre-Paes-Resume
 Alexandre Paes Resume
 
-#Alexandre Paes
+Alexandre Paes
 
 Campo Grande, Mato Grosso do Sul, Brazil
 alexpaes.itsolutions@gmail.com +5521993754048
 linkedin.com/in/alexandre-paes
 
 
-#Summary
+## Summary
 
 Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 37 years old and 3 years ago I started my
 transition from 8 years in Network Infrastructure to Software Development. Five brief contacts with programming,
@@ -23,13 +23,13 @@ of October, now at the end of 2020, I graduated in Systems Analysis and Developm
 de Janeiro, where I lived for 4 years. I also lived in London, England, for 7 years, which gave me, in addition to
 international experience, a good and advanced English language.
 
-##Experience
+## Experience
 
 Analista Desenvolvedor
 London Computadores - Autônomo - Self-employed
 Jan 2011 - Jul 2018 (7 years 7 months)
 
-#Education
+## Education
 
 Estácio
 Tecnólogo em Análise e Desenvolvimento de Sistemas, Information Technology
@@ -59,7 +59,7 @@ Técnico, Web/Multimedia Management and Webmaster
 2013 - 2013
 Webmaster - Full Stack Development
 
-##Licenses & Certifications
+## Licenses & Certifications
 
 - Computer Network Technician (Técnico em Redes de Computadores - Pronatec)
 -> PRONATEC Anhanguera
@@ -136,7 +136,7 @@ Global Fullstack Developer - Digital Innovation One Inc.
 650D1D54
 
 
-#Skills
+## Skills
 
 Python   •   Data Science   •   RESTful WebServices   •   Software Development   •   Data Analysis   •  
 Penetration Testing   •   Start-ups   •   Scrum   •   HTML   •   CSS
