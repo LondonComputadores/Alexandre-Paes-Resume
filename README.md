@@ -30,30 +30,29 @@ Jan 2011 - Jul 2018 (7 years 7 months)
 
 ## Education
 
-Estácio
+- Estácio
 Tecnólogo em Análise e Desenvolvimento de Sistemas, Information Technology
 2018 - 2020
 
-Instituto Infnet
+- Instituto Infnet
 Computer Network Technologist - Tecnologia em Redes de Computadores (3 years
 course), Information Technology
 2017 - 2020
-
 Computer Network Degree with 8 international certifications including MCSA, CCNA, CEH, PMP, etc...
-- Graduação em Redes de Computadores com 8 certificações internacionais incluindo MCSA, CCNA,CEH, PMP, etc...
+Graduação em Redes de Computadores com 8 certificações internacionais incluindo MCSA, CCNA,CEH, PMP, etc...
 
-Udacity Brasil
+- Udacity Brasil
 Nanodegree Foundation Data Science I, Computer and Information Sciences and
 Support Services
 2017 - 2018
 Python Data Science with Anaconda, Numpy, Pandas, Matplot, Jupyter Notebook, Git, HTML, Linux & Windows
 
-Anhanguera Uniderp
+- Anhanguera Uniderp
 Tecnico em Redes de Computadores (PRONATEC), Redes de Computadores
 2014 - 2016
 Computer Network Technician
 
-Treinatec
+- Treinatec
 Técnico, Web/Multimedia Management and Webmaster
 2013 - 2013
 Webmaster - Full Stack Development
