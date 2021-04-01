@@ -31,42 +31,42 @@ Jan 2009 - Jul 2018
 ### -> Projects as an Independent Contractor/Self-Employed/Freelancer
 
 - 2018:
-  --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife1s Pet Shop too for half of the price. Great deal.)
-  --> Role: Full Stack Developer
-  --> Stack: Python Django, Postgres, Bootstrap, Jquery, SQLAlchemy
+  // --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife1s Pet Shop too for half of the price. Great deal.)
+  // --> Role: Full Stack Developer
+  // --> Stack: Python Django, Postgres, Bootstrap, Jquery, SQLAlchemy
   
 - 2018:
-  --> Job: Public Tender for Governments Careers Crawler's and API's
-  --> Role: Back-End Developer
-  --> Stack: Python Flask, Postgres, BeautifulSoup4, Requests, SQLAlchemy
+  // --> Job: Public Tender for Governments Careers Crawler's and API's
+  // --> Role: Back-End Developer
+  // --> Stack: Python Flask, Postgres, BeautifulSoup4, Requests, SQLAlchemy
   
 - 2019:
-  --> Job: Desktop Library Management System
-  --> Role: Back-End Developer
-  --> Stack: Python PyQt, SQLite, Microsoft Excel
+  // --> Job: Desktop Library Management System
+  // --> Role: Back-End Developer
+  // --> Stack: Python PyQt, SQLite, Microsoft Excel
   
 - 2019:
-  --> Job: Desktop-Web-Browser Employee Management System With Integrated Asynchronous Chat App
-  --> Role: Full Stack Developer
-  --> Stack: v1= Python PyQt, SQLite, Socket
-             v2= Tornado, Postgres, Websockets 
-             v3= Node.js Express.js, MongoDB, Socket.io
+  // --> Job: Desktop-Web-Browser Employee Management System With Integrated Asynchronous Chat App
+  // --> Role: Full Stack Developer
+  // --> Stack: // v1= Python PyQt, SQLite, Socket
+                // v2= Tornado, Postgres, Websockets 
+                // v3= Node.js Express.js, MongoDB, Socket.io
           
 - 2020:
-  --> Job: Sport Ware Online Store
-  --> Role: Full Stack Developer
-  --> Django, Django-Restframework, React.js, React Native
+  // --> Job: Sport Ware Online Store
+  // --> Role: Full Stack Developer
+  // --> Django, Django-Restframework, React.js, React Native
   
 - 2020/2021:
-  --> Job: Sports Sponsorship ROI Data Analytics
-  --> Role: Full Stack Developer
-  --> Django, Django-Restframework, React.js, GraphQL, Graphene, FastAPI, Flask, SQLAlchemy, MongoDB, AWS, Terraform
+  // --> Job: Sports Sponsorship ROI Data Analytics
+  // --> Role: Full Stack Developer
+  // --> Stack: Django, Django-Restframework, React.js, GraphQL, Graphene, FastAPI, Flask, SQLAlchemy, MongoDB, AWS, Terraform
 
 
 ## Education
 
-- Estácio
-Tecnólogo em Análise e Desenvolvimento de Sistemas, Information Technology
+- University Estácio de Sá
+Tecnólogo em Análise e Desenvolvimento de Sistemas, Information Technology - System Analysis and Development - Graduated
 2018 - 2020
 
 - Instituto Infnet
@@ -172,7 +172,7 @@ Global Fullstack Developer - Digital Innovation One Inc.
 ## Skills
 
 Python   •   Data Science   •   RESTful WebServices   •   Software Development   •   Data Analysis   •  
-Penetration Testing   •   Start-ups   •   Scrum   •   HTML   •   CSS
+Penetration Testing   •   Start-ups   •   Scrum   •   HTML   •   CSS 
 
 
 <img src="curriculum.png">
