@@ -31,7 +31,7 @@ Jan 2009 - Jul 2018
 ### -> Projects as an Independent Contractor/Self-Employed/Freelancer
 
 - 2018:
-  // --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife1s Pet Shop too for half of the price. Great deal.)
+  // --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife's Pet Shop too for half of the price. Great deal.)
   // --> Role: Full Stack Developer
   // --> Stack: Python Django, Postgres, Bootstrap, Jquery, SQLAlchemy
   
@@ -57,7 +57,7 @@ Jan 2009 - Jul 2018
   // --> Role: Full Stack Developer
   // --> Django, Django-Restframework, React.js, React Native
   
-- 2020/2021:
+- 2020 / 2021:
   // --> Job: Sports Sponsorship ROI Data Analytics
   // --> Role: Full Stack Developer
   // --> Stack: Django, Django-Restframework, React.js, GraphQL, Graphene, FastAPI, Flask, SQLAlchemy, MongoDB, AWS, Terraform
