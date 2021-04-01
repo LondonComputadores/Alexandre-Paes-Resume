@@ -9,24 +9,59 @@ linkedin.com/in/alexandre-paes
 
 ## Summary
 
-Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 37 years old and 3 years ago I started my
-transition from 8 years in Network Infrastructure to Software Development. Five brief contacts with programming,
+Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 37 years old and in 2017 I started my
+transition from 8 years in Network Infrastructure to Software Development. Some brief contacts with programming,
 the first in 2001 with Delphi and in 2013 with PHP, Java and Javascript Vanilla. In 2017 I came back to stay and
 started with Python through Data Science and Analysis with data extraction and manipulation from datalakes
 and SQL database and using excel spreadsheets to clean the data. 2018 I decided to expand my knowledge
 and advanced to Web Development, with Python Django Flask, React Angular Vue Node.js, REST API,
 Microservices, Messaging with RabbitMQ, making use of Dockers containers and simple configuration of
 kubernetes to orchestrate the clusters. I participated in challenges, hackatons and even selective items in
-addition to opportunities for python, such as Ruby on Rails, Golang, C # .Net and Java Spring. In the last month
-of October, now at the end of 2020, I graduated in Systems Analysis and Development at Estácio de Sá in Rio
+addition to opportunities for python, such as Ruby on Rails, Golang, C # .Net and Java Spring. In October of the
+last year, 2020, I graduated in Systems Analysis and Development at Estácio de Sá University, in Rio
 de Janeiro, where I lived for 4 years. I also lived in London, England, for 7 years, which gave me, in addition to
-international experience, a good and advanced English language.
+international experience, a good and advanced English language skills.
 
 ## Experience
 
 Analista Desenvolvedor
 London Computadores - Autônomo - Self-employed
-Jan 2011 - Jul 2018 (7 years 7 months)
+Jan 2009 - Jul 2018
+
+### -> Projects as an Independent Contractor/Self-Employed/Freelancer
+
+- 2018:
+  --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife1s Pet Shop too for half of the price. Great deal.)
+  --> Role: Full Stack Developer
+  --> Stack: Python Django, Postgres, Bootstrap, Jquery, SQLAlchemy
+  
+- 2018:
+  --> Job: Public Tender for Governments Careers Crawler's and API's
+  --> Role: Back-End Developer
+  --> Stack: Python Flask, Postgres, BeautifulSoup4, Requests, SQLAlchemy
+  
+- 2019:
+  --> Job: Desktop Library Management System
+  --> Role: Back-End Developer
+  --> Stack: Python PyQt, SQLite, Microsoft Excel
+  
+- 2019:
+  --> Job: Desktop-Web-Browser Employee Management System With Integrated Asynchronous Chat App
+  --> Role: Full Stack Developer
+  --> Stack: v1= Python PyQt, SQLite, Socket
+             v2= Tornado, Postgres, Websockets 
+             v3= Node.js Express.js, MongoDB, Socket.io
+          
+- 2020:
+  --> Job: Sport Ware Online Store
+  --> Role: Full Stack Developer
+  --> Django, Django-Restframework, React.js, React Native
+  
+- 2020/2021:
+  --> Job: Sports Sponsorship ROI Data Analytics
+  --> Role: Full Stack Developer
+  --> Django, Django-Restframework, React.js, GraphQL, Graphene, FastAPI, Flask, SQLAlchemy, MongoDB, AWS, Terraform
+
 
 ## Education
 
