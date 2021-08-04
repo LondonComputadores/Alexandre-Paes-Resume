@@ -3,13 +3,13 @@
 Alexandre Paes
 
 Campo Grande, Mato Grosso do Sul, Brazil
-alexpaes.itsolutions@gmail.com +5521993754048
+alexpaes.itsolutions@gmail.com +5521993754048 somente whatsapp
 linkedin.com/in/alexandre-paes
 
 
 ## Summary
 
-Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 37 years old and in 2017 I started my
+Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 38 years old and in 2017 I started my
 transition from 8 years in Network Infrastructure to Software Development. Some brief contacts with programming,
 the first in 2001 with Delphi and in 2013 with PHP, Java and Javascript Vanilla. In 2017 I came back to stay and
 started with Python through Data Science and Analysis with data extraction and manipulation from datalakes
@@ -61,6 +61,11 @@ Jan 2009 - Jul 2018
   // --> Job: Sports Sponsorship ROI Data Analytics
   // --> Role: Full Stack Developer
   // --> Stack: Django, Django-Restframework, React.js, GraphQL, Graphene, FastAPI, Flask, SQLAlchemy, MongoDB, AWS, Terraform
+
+- 2021:
+  // --> Job: CMMC Cyber Security Trainning Platform By Xogito Group Inc.
+  // --> Role: Backend Python Developer
+  // --> Stack: Python, Flask, PostgreSQL, SQLAlchemy, Alembic, Gitlab
 
 
 ## Education
