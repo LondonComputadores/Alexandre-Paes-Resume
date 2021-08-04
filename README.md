@@ -4,7 +4,7 @@ Alexandre Paes
 
 Campo Grande, Mato Grosso do Sul, Brazil
 alexpaes.itsolutions@gmail.com +5521993754048 somente whatsapp \
-linkedin.com/in/alexandre-paes
+<a href="linkedin.com/in/alexandre-paes">My LinkedIn</a>
 
 
 ## Summary
