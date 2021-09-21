@@ -3,7 +3,7 @@
 Alexandre Paes
 
 Campo Grande, Mato Grosso do Sul, Brazil
-alexpaes.itsolutions@gmail.com +5521993754048 somente whatsapp \
+alexpaes.itsolutions@gmail.com
 <a href="linkedin.com/in/alexandre-paes">My LinkedIn</a>
 
 
@@ -21,6 +21,15 @@ addition to opportunities for python, such as Ruby on Rails, Golang, C # .Net an
 last year, 2020, I graduated in Systems Analysis and Development at Estácio de Sá University, in Rio
 de Janeiro, where I lived for 4 years. I also lived in London, England, for 7 years, which gave me, in addition to
 international experience, a good and advanced English language skills.
+
+Spoken English level: Advanced (7 years lived in London, England, UK)
+
+Objectives: Even knowing that I'm able to get a Mid Developer job, I'd love to get a junior or a junior/mid or maximum
+a mid 1, when mid 3 is the most experienced, python back-end or python django back-end or a python django react.js/vue.js
+full stack developer role! I'm qualifying myself to be a DevSecOps in the future, so meanwhile I'd like to learn more about
+it as a developer and perhaps be able to contribute to the projects I'm working on! Data Science and Analysis have been put
+aside but never abandoned. REST API and a bit of micro services has been the main topic that every single project without
+distinguish of technology used, so I'm putting a lot of effort on it to get better and better.
 
 ## Experience
 
