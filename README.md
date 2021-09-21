@@ -6,6 +6,8 @@ Campo Grande, Mato Grosso do Sul, Brazil
 alexpaes.itsolutions@gmail.com
 <a href="linkedin.com/in/alexandre-paes">My LinkedIn</a>
 
+### For Portuguese Speakers: Clicar com o botão direito do mouse e selecionar Traduzir para português
+
 
 ## Summary
 
