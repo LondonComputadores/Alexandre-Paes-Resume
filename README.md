@@ -13,35 +13,23 @@ alexpaes.itsolutions@gmail.com
 
 ## Summary
 
-Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 38 years old and in 2017 I started my
-transition from 8 years in Network Infrastructure to Software Development. Some brief contacts with programming,
-the first in 2001 with Delphi and in 2013 with PHP, Java and Javascript Vanilla. In 2017 I came back to stay and
-started with Python through Data Science and Analysis with data extraction and manipulation from datalakes
-and SQL database and using excel spreadsheets to clean the data. 2018 I decided to expand my knowledge
-and advanced to Web Development, with Python Django Flask, React Angular Vue Node.js, REST API,
-Microservices, Messaging with RabbitMQ, making use of Dockers containers and simple configuration of
-kubernetes to orchestrate the clusters. I participated in challenges, hackatons and even selective items in
-addition to opportunities for python, such as Ruby on Rails, Golang, C # .Net and Java Spring. In October of the
-last year, 2020, I graduated in Systems Analysis and Development at Estácio de Sá University, in Rio
-de Janeiro, where I lived for 4 years. I also lived in London, England, for 7 years, which gave me, in addition to
-international experience, a good and advanced English language skills.
+Hi! I'm Alexandre Paes but you can call me Alex if you prefer. I am 38 years old and 3 years ago I started
+my transition from 8 years in Network Infrastructure to Software Development. I started with Python through
+Data Science and Analysis with data extraction and manipulation from datalakes and SQL database and
+also using excel spreadsheets to clean the data. 2018 I decided to expand my knowledge and advanced to
+Web Development, with Python (Django, Flask), Javascript (React, Angular, Vue, Node.js), REST API, Micro
+Services, messaging with RabbitMQ, making use of Dockers containers and simple configuration of Kubernetes
+to orchestrate the clusters as well as basics of DevSecOps too. I participated in challenges, hackatons and
+some freelancing jobs. I'm graduated in Systems Analysis and Development at Estácio de Sá in Rio de Janeiro,
+where I lived for 4 years. I also lived in London, England, for 7 years, which gave me, in addition to international
+experience, a good and advanced English spoken skill.
 
 Spoken English level: Advanced (7 years lived in London, England, UK)
 
-Objectives: Even knowing that I'm able to get a Mid Developer job, I'd love to get a junior or a junior/mid or maximum
-a mid 1, when mid 3 is the most experienced, python back-end or python django back-end or a python django react.js/vue.js
-full stack developer role! I'm qualifying myself to be a DevSecOps in the future, so meanwhile I'd like to learn more about
-it as a developer and perhaps be able to contribute to the projects I'm working on! Data Science and Analysis have been put
-aside but never abandoned. REST API and a bit of micro services has been the main topic that every single project without
-distinguish of technology used, so I'm putting a lot of effort on it to get better and better.
+Objectives: Python Django back-end development.
 
-## Experience
 
-Analista Desenvolvedor
-London Computadores - Autônomo - Self-employed
-Jan 2009 - Jul 2018
-
-### -> Projects as an Independent Contractor/Self-Employed/Freelancer
+### -> Experiences and Projects
 
 - 2018:
   // --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife's Pet Shop too for half of the price. Great deal.)
