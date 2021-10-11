@@ -29,7 +29,7 @@ Spoken English level: Advanced (7 years lived in London, England, UK)
 Objectives: Python Django back-end development.
 
 
-### -> Experiences and Projects
+## Experiences and Projects
 
 - 2018:
   // --> Job: Pizza Delivery Website (Adapted and Reused its structure for his wife's Pet Shop too for half of the price. Great deal.)
